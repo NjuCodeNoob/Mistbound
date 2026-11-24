@@ -1,0 +1,9 @@
+*
+!/.gitignore
+!/README.md
+!/balance/
+!/balance/Mistbound-Balance.xlsx
+!/media/
+!/media/*.png
+!/media/*.jpg
+!/media/*.gif
